@@ -34,9 +34,9 @@ I have hands-on experience in various technologies, including:
 - Initiatives that promote tech education and community learning.
 
 ### 📫 How to reach me
-- **Email**: [](anthonydavilasanchez@gmail.com)
-- **LinkedIn**: [](https://www.linkedin.com/in/anthony-d%C3%A1vila-s%C3%A1nchez-6612aa245/)
-- **Portfolio**: [](https://anthony-davila-portafolio.netlify.app/)
+- **Email**: [anthonydavilasanchez@gmail.com](anthonydavilasanchez@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/anthony-d%C3%A1vila-s%C3%A1nchez-6612aa245/](https://www.linkedin.com/in/anthony-d%C3%A1vila-s%C3%A1nchez-6612aa245/)
+- **Portfolio**: [https://anthony-davila-portafolio.netlify.app/](https://anthony-davila-portafolio.netlify.app/)
 
 ### 📈 GitHub Stats
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyDS182&show_icons=true&theme=dark)
